@@ -1,6 +1,6 @@
 {
   "name": "mp-cookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An implementation of simulated cookie operation for wechat miniprogram",
   "main": "/miniprogram_dist/index.js",
   "scripts": {
