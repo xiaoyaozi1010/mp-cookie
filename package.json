@@ -23,5 +23,7 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "https://github.com/xiaoyaozi1010/mp-cookie.git",
+  "homepage": "https://github.com/xiaoyaozi1010/mp-cookie"
 }
